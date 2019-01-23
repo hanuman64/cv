@@ -1,0 +1,56 @@
+#experiences {
+    background-color: #DAF9EB;
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px 1px darkgrey;
+}
+
+#competences {
+    background-color: #BADDF0;
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px 1px darkgrey;
+}
+
+#formation {
+    background-color: #F4D3A3;
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px 1px darkgrey;
+}
+
+h1 { /* NOM */
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    margin-right: 50%;
+    margin-top: 15%;
+}
+
+.images { /* BANDEAU ICONES */
+    background-color: white;
+    width: 50%;
+    text-align: justify;
+    margin: auto;
+}
+
+body {
+    background-color: beige;
+}
+
+.photo {
+    border-radius: 9%;
+    box-shadow: 5px 5px 5px 1px darkgrey;
+}
+
+h2 { /* CATEGORIES */
+    background-color: white;
+    text-align: center;
+}
+
+.presentation { /* AGE DESCRIPTION */
+    text-align: center;
+    margin-right: 50%;
+    font-size: 20px;
+}
+
+.alert { /* Bandeau recherche de stage */
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+}
